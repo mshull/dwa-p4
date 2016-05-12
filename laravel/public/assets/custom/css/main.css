@@ -1,0 +1,11 @@
+.text-small {
+	font-size: 0.8em;
+}
+
+.panel-body {
+	padding: 15px 15px 5px;
+}
+
+.panel-body p {
+	margin-bottom: 10px;
+}

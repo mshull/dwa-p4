@@ -1,0 +1,16 @@
+div#cases_table_filter.dataTables_filter {
+	text-align: right;
+}
+
+.table.table-bordered {
+	
+}
+
+.table.table-bordered tbody tr th {
+	background-color: #eff3f6;
+}
+
+td.editable:hover {
+	color: #ff5400;
+	cursor: alias;
+}
