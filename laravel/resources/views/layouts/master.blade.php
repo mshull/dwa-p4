@@ -112,8 +112,8 @@
 	<!-- footer -->
     <div class="page-footer">
         <div class="page-footer-inner"> 
-        	Copyright &copy; CRMCases.com <?php echo Date('Y'); ?>
-            <a href="mailto:support@crmcases.com" title="Email Us">Contact Us</a>
+        	Copyright &copy; P4.ShullWorks.com <?php echo Date('Y'); ?>
+            <a href="mailto:mshull@g.harvard.com" title="Email Us">Contact Us</a>
         </div>
         <div class="scroll-to-top">
             <i class="icon-arrow-up"></i>
