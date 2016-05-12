@@ -24,6 +24,8 @@ For my P4 project I decided to create a CRM system that can be used for lawyers.
 
 5. You will now need to wait as the migration takes hold and the data is seeded into the system.
 
+6. You will need to login with the emails that were seeded (as requested).
+
 ## Outside Code
 
 1. This project uses the [Bootstrap framework](http://getbootstrap.com) as it's front-end foundation. 
