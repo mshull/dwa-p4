@@ -32,4 +32,6 @@ For my P4 project I decided to create a CRM system that can be used for lawyers.
 
 3. A bootstrap template was purchased from ThemeForest and then heavily modified for this project.
 
-4. The theme for this project using many (many, many) CSS and Javascript libraries.
+4. The theme for this project using many (many, many) CSS and Javascript libraries. Most notably jQuery, jQuery UI, Select2, and BootStrap editable.
+
+5. Login photos obtained at DreamsTime.com.
