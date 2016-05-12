@@ -10,7 +10,7 @@
 For my P4 project I decided to create a CRM system that can be used for lawyers. The project consists of a login system, a dashboard with search functionality, an in-depth case management system which allows you to edit case details via AJAX, add tasks, add notes, upload files, and view additional case details. The goal is to allow a lawyer to import leads via an API and give them the ability to manage those leads into cases and administrate the case throughout it's existance in a simple administration tool. To create this system I used a variety of tools in Laravel which include Controllers, Models with Relationships, many migration files, a few migration seeds.
 
 ## Demo
-[https://youtu.be/XhBBKQxSqEQ](https://youtu.be/XhBBKQxSqEQ)
+[https://youtu.be/dqpJ-WLtpX8](https://youtu.be/dqpJ-WLtpX8)
 
 ## Details for Teaching Team
 
